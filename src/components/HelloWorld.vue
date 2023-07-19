@@ -134,7 +134,7 @@ export default {
   flex-wrap: wrap;
   width: 288px;
   height: 288px;
-  border: 2px solid black;
+  border: 0.5px solid #e5e7eb;
   border-radius: 5px;
   padding: 5px;
 }
